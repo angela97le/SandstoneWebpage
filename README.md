@@ -172,17 +172,7 @@ Ulrich leads design and development of Sandstone's new products from concept pha
 </div>
 <button type="button" class="about-btn myUlrich">About  <i class="fas fa-chevron-down"></i></button>
  </div>
-
-
-
 </div>
-
-
-
-
-
-
-
 '''
 
 '''
@@ -229,6 +219,7 @@ Kyungjin is a Biomedical Engineer with a data-driven mindset. With interdiscipli
 
 </div>
 '''
+
 '''
 <div class = "row bios-all">
 
